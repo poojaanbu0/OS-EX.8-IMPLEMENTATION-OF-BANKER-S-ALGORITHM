@@ -28,9 +28,11 @@ To write a C program to implement Bankers Algorithm to avoid Deadlock.
 
 12: Print the sequence if it is in safe state or print not in safe state.
 
-
 ## PROGRAM:
 ```
+Developed by: Pooja.A
+Register number: 212222240072
+
 #include<stdio.h>
 int main ()
 {
